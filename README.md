@@ -1,6 +1,4 @@
-# survival-python
-
-[![Join the chat at https://gitter.im/MassStreetUniversity/survival-python](https://badges.gitter.im/MassStreetUniversity/survival-python.svg)](https://gitter.im/MassStreetUniversity/survival-python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Survival Python
 
 Repo for CSCI120 Survival Python
 
